@@ -33,7 +33,3 @@ You will need to have [configured pip and python in your computer's system envir
 ## Author
 
 **Danielle Jobe** - *Initial work* - [DanielleJobe](https://github.com/DanielleJobe)
-
-## License
-
-This project uses code from the [OpenCV repository](https://github.com/opencv/opencv) so its license applies
