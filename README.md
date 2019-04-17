@@ -15,7 +15,7 @@ The examples are looped and the execution time is calculated to demonstrate the 
 LabVIEW 2018 or newer  
 Python 3.6 (3.6.8 is recommended)  
 OpenCV 3.4.2.17 or newer (can be installed via pip using requirements.txt)  
-NumPY 1.15.1 or newer (can be installed via pip using requirements.txt)  
+NumPy 1.15.1 or newer (can be installed via pip using requirements.txt)  
 
 ## Installation 
 Clone or download the repo:  
