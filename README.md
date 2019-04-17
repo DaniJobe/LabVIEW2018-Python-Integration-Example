@@ -17,10 +17,8 @@ Python 3.6 (3.6.8 is recommended)
 pip 19 or newer
 
 ## Installation 
-Clone or download the repo:  
-
-    git clone https://github.com/DanielleJobe/LabVIEW2018_Python_Integration.git
-
+Clone or download the repo  
+  
 Install the python packages using pip: 
 
     cd [repo clone location]/py_src
