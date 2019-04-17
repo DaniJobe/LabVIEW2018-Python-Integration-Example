@@ -11,8 +11,11 @@ def findFaces(imgPath = 'data/test1.jpg', scalefactor = 1.1, neighbors = 5):
     #just making a copy of image passed, so that passed image is not changed 
     img_copy = colored_img.copy()          
   
+    #get path for the classifier to use
+    training_set = os.path.dirname(os.path.abspath(__file__))+ '\data\haarcascade_frontalface_alt.xml'
+	
     #get the training set
-    face_cascade = cv2.CascadeClassifier('C:/VIT/imageProcessingExample/py_src/data/haarcascade_frontalface_alt.xml')
+    face_cascade = cv2.CascadeClassifier(training_set)
     
     #convert the test image to gray image as opencv face detector expects gray images
     gray = cv2.cvtColor(img_copy, cv2.COLOR_BGR2GRAY)          
