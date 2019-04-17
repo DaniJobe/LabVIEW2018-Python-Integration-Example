@@ -14,15 +14,14 @@ The examples are looped and the execution time is calculated to demonstrate the 
 ## Prerequisites
 LabVIEW 2018 or newer  
 Python 3.6 (3.6.8 is recommended)  
-OpenCV 3.4.2.17 or newer (can be installed via pip using requirements.txt)  
-NumPy 1.15.1 or newer (can be installed via pip using requirements.txt)  
+pip 19 or newer
 
 ## Installation 
 Clone or download the repo:  
 
     git clone https://github.com/DanielleJobe/LabVIEW2018_Python_Integration.git
 
-Install the python packages using PIP: 
+Install the python packages using pip: 
 
     cd [repo clone location]/py_src
     pip install -r requirements.txt
