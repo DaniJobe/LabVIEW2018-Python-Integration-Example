@@ -1,15 +1,15 @@
 # LabVIEW2018 Python Integration Example
 
-This project demonstrates and benchmarks two different ways to connect to python natively within LabVIEW (natively = without using third-party toolkits in LabVIEW):
-* System executable vi  
-* LabVIEW Python Nodes. 
+This project demonstrates how to use Python nodes to communicate between LabVIEW and Python and gives you sample VIs to fill in and try it yourself. 
 
-Two different examples are demonstrated for each LV-Python integration method:
+It contains several examples:
 * A simple hello world function
-* Using OpenCV to do facial recognition on an image file
-
-The examples are looped and the execution time is calculated to demonstrate the difference in speed between the two methods of integration.  
-**Spoiler!** LabVIEW Python nodes are way faster. 
+* Adding two numbers
+* Calculating the number of days since a date (using clusters and enums as inputs)
+* Finding the maximum and minimum in an array of numbers (a function that returns multiple outputs)
+* Dictionary lookup with key-value pairs (arrays of clusters as inputs)
+* Using OpenCV to do facial recognition on an image using [Haar Cascades](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_objdetect/py_face_detection/py_face_detection.html#face-detection)
+* Using OpenCV to find the corners in an image using [Harris Corner Detection](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_feature2d/py_features_harris/py_features_harris.html#harris-corners)
 
 ## Prerequisites
 LabVIEW 2018 or newer  
