@@ -17,7 +17,7 @@
 			<Item Name="PythonNodeExamples.py" Type="Document" URL="../../../py_src/PythonNodeExamples.py"/>
 		</Item>
 		<Item Name="utilities" Type="Folder">
-			<Item Name="GetPathToModule.vi" Type="VI" URL="../../HandsOn/Solutions/GetPathToModule.vi"/>
+			<Item Name="GetPathToModule.vi" Type="VI" URL="../GetPathToModule.vi"/>
 		</Item>
 		<Item Name="HelloWorld.vi" Type="VI" URL="../HelloWorld.vi"/>
 		<Item Name="Add.vi" Type="VI" URL="../Add.vi"/>
