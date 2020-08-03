@@ -12,9 +12,12 @@ It contains several examples:
 * Using OpenCV to find the corners in an image using [Harris Corner Detection](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_feature2d/py_features_harris/py_features_harris.html#harris-corners)
 
 ## Prerequisites
-LabVIEW 2018 or newer  
-Python 3.6 (3.6.8 is recommended)  
-pip 19 or newer
+* LabVIEW 2018 or newer  
+* Python 3.6 (3.6.8 is recommended) 
+* pip 19 or newer
+
+
+**Note:** The bitness (32 or 64-bit) of the Python version installed needs to match the bitness of your LabVIEW version. For example, 32-bit LabVIEW will only work to call 32-bit Python.
 
 ## Installation 
 Clone or download the repo  
