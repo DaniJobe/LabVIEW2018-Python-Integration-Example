@@ -13,7 +13,7 @@ It contains several examples:
 
 ## Prerequisites
 * LabVIEW 2018 or newer  
-* Python 3.6 (3.6.8 is recommended) 
+* [Python 3.6 (3.6.8 is recommended)](https://www.python.org/ftp/python/3.6.8/python-3.6.8.exe) 
 * pip 19 or newer
 
 
