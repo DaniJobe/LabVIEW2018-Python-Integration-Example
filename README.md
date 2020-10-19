@@ -30,6 +30,9 @@ Install the python packages using pip:
 **Note:**  
 You will need to have [configured pip and python in your computer's system environmental variables](https://www.computerhope.com/issues/ch000549.htm)
 
+## Getting Started
+Once you have completed the Installation step, open the HandsOn Guide.pdf and follow along with the examples.  
+
 ## Author
 
 **Danielle Jobe** - *Initial work* - [DanielleJobe](https://github.com/DanielleJobe)
